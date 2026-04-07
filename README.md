@@ -26,7 +26,7 @@ and Machine Learning to monitor public health trends and detect disease outbreak
 
 ##  How to Run
 1. Clone the repository
-   git clone https://github.com/YourUsername/AI-Health-Monitor.git
+   git clone https://github.com/RiyaGit12/Final_year_Project.git
 
 2. Install dependencies
    pip install -r requirements.txt
